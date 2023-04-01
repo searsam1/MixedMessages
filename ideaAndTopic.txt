@@ -1,0 +1,7 @@
+Generate a random message from a list 
+of random words from a random 
+wikipedia scraper. 
+
+Take the filenames from a directory 
+and use those as a random words list. 
+

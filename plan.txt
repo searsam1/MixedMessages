@@ -1,0 +1,7 @@
+
+- scrape file names
+- clean filenames for words 
+- turn filenames into list 
+- run script to generate random message 
+- display the message 
+- 
